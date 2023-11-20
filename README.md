@@ -4,7 +4,7 @@ Interactive web quiz with 10 new questions in each playthrough.
 
 ![Quiz App Project preview image](./project-preview.png)
 
-## Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
+## Hello to [lakshtech](https://bigdevsoon.me/) 👋
 
 Create code that matters! 🤩
 
